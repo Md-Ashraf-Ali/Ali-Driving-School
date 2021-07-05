@@ -1,0 +1,11 @@
+.contact-container{
+    height: 880px;
+    width: 100%;
+}
+.contactData-container{
+    height: 180px;
+}
+.contact-form{
+    height:600px;
+    margin-top: 20px;
+}

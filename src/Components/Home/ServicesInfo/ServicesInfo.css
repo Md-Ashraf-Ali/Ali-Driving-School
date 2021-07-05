@@ -1,0 +1,13 @@
+.container .cardImg{
+    height: 370px;
+    width: auto;
+}
+.instructorImg img{
+    height: 100px;
+    width: 100px;
+}
+.cardImg:hover{
+    height: 350px;
+    opacity: .3;
+
+}

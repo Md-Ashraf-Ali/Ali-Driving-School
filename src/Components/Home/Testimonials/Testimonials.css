@@ -1,0 +1,14 @@
+.testimonial-container{
+    height: 800px;
+    width: auto;
+    
+}
+.testHeader{
+    margin-top: 20px;
+    background-image: url(../../../Images/car-3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+    width: auto;
+    margin-bottom: 23px;
+}

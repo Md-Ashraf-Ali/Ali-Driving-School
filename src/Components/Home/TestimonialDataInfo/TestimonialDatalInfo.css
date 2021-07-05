@@ -1,0 +1,11 @@
+.testimonialData img{
+    height: 304px;
+    width: auto;
+
+}
+.person-intiduce{
+    line-height: inherit;
+}
+.testimonialData{
+    background-color: rgb(235, 224, 224);
+}

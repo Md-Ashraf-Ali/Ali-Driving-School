@@ -1,0 +1,11 @@
+
+.nav-link{
+    font-size: large;
+    color: azure;
+}
+
+.nav-link:hover{
+    color: black;
+    background-color: rgb(26, 0, 75);
+    border-radius: 5px;
+}

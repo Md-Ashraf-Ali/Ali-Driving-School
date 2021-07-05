@@ -1,0 +1,33 @@
+.infoCard-container{
+    height: 450px;
+    border-radius: 10px;
+    /* background-color: cadetblue; */
+}
+.infoCard-container img {
+    padding: 52px;
+    height: 180px;
+    width: 206px;
+    border: 2px solid;
+    border-radius: 50%;
+    background: darkgrey;
+    margin-left: 37px;
+    margin-top: 20px;
+}
+.infoCard-container h4 {
+    padding: 0px;
+    margin-top: 10px;
+    color: darkgreen;
+    text-align: center;
+    margin-bottom: 32px;
+}
+.infoCard-container p{
+    padding: 10px;
+    color: black;
+    text-align: center;
+}
+.infoCard-container:hover{
+    height: 400px;
+    border-radius: 10px;
+    background-color: rgb(7, 35, 37);
+
+}

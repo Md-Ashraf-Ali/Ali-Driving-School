@@ -1,0 +1,11 @@
+.services-container{
+    height: 1100px;
+    width: auto;
+    background-color: dimgray;
+    text-align: center;
+    color: white;
+    margin-bottom: 100px;
+}
+.info-container{
+    height: 600px;
+}

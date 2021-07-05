@@ -1,0 +1,22 @@
+.blog-container{
+    height: 1640px;
+    width: auto;
+    margin-top: 150px;
+}
+.blogHeader{
+    background-image: url(../../../Images/blog-bg.jpg);
+    height: 350px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.blog-header {
+    position: absolute;
+    margin-top: 75px;
+    margin-left: 570px;
+}
+.row-container{
+    height: 600px;
+}

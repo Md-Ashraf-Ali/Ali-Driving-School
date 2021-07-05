@@ -1,0 +1,42 @@
+.container{
+    height: 550px;
+    width: 100%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.container h5{
+    margin-bottom: 30px;
+}
+.container img{
+    height: 450px;
+    width: auto;
+}
+.container h1{
+    margin-top: 15px;
+    color: cadetblue;
+}
+.about-foot {
+    border: 1px solid;
+    background-color: cornflowerblue;
+    height: 90px;
+    width: 375px;
+    border-radius: 27px;
+    margin-left: 160px;
+    padding: 10px;
+}
+.about-foot:hover{
+    border: 1px solid;
+    background-color: rgb(9, 24, 53);
+    color: white;
+    height: 100px;
+    width: 385px;
+    border-radius: 27px;
+    margin-left: 160px;
+
+}
+.about-description{
+    text-align: center;
+    margin-left: 100px;
+
+}
+

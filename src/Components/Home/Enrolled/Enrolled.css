@@ -1,0 +1,9 @@
+.enroll-container{
+    background-image: url(../../../Images/enrolledImg.jpg);
+    background-size: cover;
+}
+.enroll-data{
+    margin-top: 100px;
+    text-align: center;
+    line-height: 120px;
+}
