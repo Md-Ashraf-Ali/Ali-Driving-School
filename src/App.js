@@ -11,7 +11,9 @@ import Testimonials from "./Components/Home/Testimonials/Testimonials";
 import Blog from "./Components/Home/Blog/Blog";
 import Contact from "./Components/Home/Contact/Contact";
 import Enrolled from "./Components/Home/Enrolled/Enrolled";
-import Footer from "./Components/Home/Footer/Footer";
+import Footer from "./Components/Shared/Footer/Footer";
+import Admission from "./Components/Admission/Admission/Admission";
+import Login from "./Components/Login/Login/Login";
 
 function App() {
   return (
@@ -23,7 +25,13 @@ function App() {
           <Route exact path="/home">
             <Home />
           </Route>
-          <Route path="/about">
+          <Route exact path="/Admission">
+            <Admission />
+          </Route>
+          <Route exact path="/login">
+            <Login />
+          </Route>
+          {/* <Route path="/about">
             <About></About>
           </Route>
           <Route path="/services">
@@ -43,10 +51,10 @@ function App() {
           </Route>
           <Route path="/footer">
             <Footer></Footer>
-          </Route>
-          <Route path="/dashboard">
+          </Route> *
+           <Route path="/dashboard">
             
-          </Route>
+          </Route>  */}
         </Switch>
     </Router>
   );
