@@ -1,6 +1,6 @@
 import React from 'react';
 import './Contact.css';
-import { faCoffee,faThumbtack,faPhone,faEnvelope } from '@fortawesome/free-solid-svg-icons';
+import { faThumbtack,faPhone,faEnvelope } from '@fortawesome/free-solid-svg-icons';
 import ContactInfo from '../ContactInfo/ContactInfo';
 import contactImg from '../../../Images/contact-img.jpg' ;
 
